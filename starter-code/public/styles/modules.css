@@ -81,3 +81,7 @@
   }
 
 }
+
+.author-stats span {
+  font-weight: bold;
+}
